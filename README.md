@@ -7,5 +7,5 @@ Tested with:
 
 ## Run
 Please use such arguments: binary_name MODE path/to/dataset
-MODE could be '0' -> to run in BASE mode
-MODE could be '1' -> to run in ADVANCED mode
+* MODE could be '0' -> to run in BASE mode
+* MODE could be '1' -> to run in ADVANCED mode
